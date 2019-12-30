@@ -1436,6 +1436,15 @@ VLDB
     | :authors:`Rong, Zhu, Kun, Zhao, Hongxia, Yang, Wei, Lin, Chang, Zhou, Baole, Ai, Yong, Li, Jingren, Zhou`
     | :venue:`VLDB 2019`
 
+ICDE
+----
+
+`Stochastic Weight Completion for Road Networks using Graph Convolutional Networks.
+<http://people.cs.aau.dk/~byang/papers/ICDE2019-GCWC.pdf>`_
+    | :authors:`Jilin Hu, Chenjuan Guo, Bin Yang, and Christian S. Jensen`
+    | :venue:`ICDE 2019`
+
+
 ACL
 ---
 

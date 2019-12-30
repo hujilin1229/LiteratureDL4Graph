@@ -1526,6 +1526,15 @@ Theorem Proving
     | :authors:`Mingzhe Wang, Yihe Tang, Jian Wang, Jia Deng`
     | :venue:`NeurIPS 2017`
 
+Spatiotemporal Data Mining in Transporation
+---------------
+
+`Stochastic Weight Completion for Road Networks using Graph Convolutional Networks
+<http://people.cs.aau.dk/~byang/papers/ICDE2019-GCWC.pdf>`_
+    | :authors:`Jilin Hu, Chenjuan Guo, Bin Yang, and Christian S. Jensen`
+    | :venue:`ICDE 2019`
+
+
 Graph Generation
 ================
 
